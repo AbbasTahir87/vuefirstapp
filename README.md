@@ -1,4 +1,7 @@
 # vuefirstapp
+<<<<<<< HEAD
+
+Authar: Abbas Tahir
 
 ## Project setup
 ```
@@ -22,3 +25,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+This is first vue learning app
+<br />
+Authar: Abbas Tahir
+>>>>>>> 3eb1745546939a345cc46c5cfef55996beba8d28
