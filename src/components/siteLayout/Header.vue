@@ -20,9 +20,9 @@
                     <li>
                         <router-link to="/contct-us">CONTACT US</router-link>
                     </li>
-                    <!-- <li>
+                    <li>
                         <router-link to="/practice">Practice</router-link>
-                    </li> -->
+                    </li>
                 </ul>
             </nav>
         </div>
